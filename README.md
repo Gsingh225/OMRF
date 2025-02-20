@@ -1,4 +1,3 @@
-````
 # Organic Molecule Representation Format
 
 ## Overview
@@ -134,5 +133,4 @@ Contributions, suggestions, and improvements are welcome! Feel free to submit a 
 
 ## Contact
 For questions or discussions, please reach out via the GitHub Issues section.
-````
 
