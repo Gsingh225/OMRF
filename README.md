@@ -8,7 +8,7 @@ This text-based format is designed to represent organic molecules comprehensivel
 - **Precise atom placements**
 - **Formal charges**
 
-The format is easy to read and write, allowing optional details to be omitted when desired while maintaining clarity and flexibility.
+The format is easy to read and write, allowing optional details to be omitted when desired while maintaining clarity and flexibility. The molecules do not have to obey the rules of chemistry or any rules to be drawn. In fact the example in the interp.py file is not correct. 
 
 ## Format Specification
 Each molecule is represented as a list of **atom specifications**, where each atom is described with its connections, lone pairs, and optional formal charge.
